@@ -113,17 +113,17 @@ export default function App() {
       // let foundTags = itemTags.filter((item => item.name === itemName));
 
       // if (foundTags.length > 0) {
-      //   // let tagsArray = foundTags[0].tags;
+      //   let tagsArray = foundTags[0].tags;
       //   console.log('found tags..');
       //   console.log(foundTags);
-      //   // if (tagsArray) {
-      //   // //   console.log(itemTags);
-      //   // //   const tagOutput = tagsArray.map((tag) =>
-      //   // //       <li key={tag}>{tag}</li>
-      //   // //   );
-      //   // //   return tagOutput;
+      //   if (tagsArray) {
+      //     console.log(itemTags);
+      //     const tagOutput = tagsArray.map((tag) =>
+      //         <li key={tag}>{tag}</li>
+      //     );
+      //     return tagOutput;
 
-      //   // }
+      //   }
       // } 
 
       // if (itemTags.some(item => item.name === itemName)) {
